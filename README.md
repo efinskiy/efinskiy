@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Evgeniy!
 
-<!--
-**efinskiy/efinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://avatars.githubusercontent.com/u/109924156?s=200&v=4" width=300 align=right>](https://github.com/BeyondEdgeCode)
+21 y.o Junior Python Developer
+Writing projects on Flask with goal to reach the limit of the framework ;)
 
-Here are some ideas to get you started:
+Unemployed. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In search of remote work.
+
+### Skills:
+* Python 3.10
+* JavaScript
+* TypeScript
+* Flask
+* SQLAlchemy
+* SQL
+* Docker / Docker-Compose
+* Linux
+* etc...

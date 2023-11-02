@@ -1,20 +1,25 @@
 ### Hi, I'm Evgeniy!
+22 y.o Python Developer
 
-[<img src="https://avatars.githubusercontent.com/u/109924156?s=200&v=4" width=300 align=right>](https://github.com/BeyondEdgeCode)
-21 y.o Junior Python Developer
-Writing projects on Flask with goal to reach the limit of the framework ;)
+I like to rewrite projects from scratch that already exist (CircleCI, Staginator, etc.).
 
-Unemployed. 
+I have reached the zen of Flask
 
-In search of remote work.
+Trying FastAPI
+
+I'm DevOps at heart
 
 ### Skills:
-* Python 3.10
+* Python 3.7+
 * JavaScript
 * TypeScript
 * Flask
-* SQLAlchemy
-* SQL
+* FastAPI
+* PyDantic
+* SQLAlchemy 1
+* SQLAlchemy 2
+* Pure SQL
 * Docker / Docker-Compose
-* Linux
+* GNU/Linux (Debian, Ubuntu, CentOS)
+* OpenVPN / WireGuard
 * etc...

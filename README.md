@@ -1,12 +1,6 @@
 ### Hi, I'm Evgeniy!
 22 y.o Python Developer
 
-I like to rewrite projects from scratch that already exist (CircleCI, Staginator, etc.).
-
-I have reached the zen of Flask
-
-Trying FastAPI
-
 ### Skills:
 * Python 3.7+
 * JavaScript

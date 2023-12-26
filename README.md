@@ -7,8 +7,6 @@ I have reached the zen of Flask
 
 Trying FastAPI
 
-I'm DevOps at heart
-
 ### Skills:
 * Python 3.7+
 * JavaScript
